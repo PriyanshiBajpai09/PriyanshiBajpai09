@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Building with MERN Stack (Backend Focused)<br>⚙️ Skilled in Full Stack Development (MERN + Java)<br>🤝 Open for Collaboration & Open Source<br>🧠 Core: DSA • OOP • DBMS • OS • CN<br>💬 React • Node • APIs • Backend<br>🔐 Secure Coding & Web Security<br>⚡ Turning ideas into real-world applications
+💻 Building with MERN Stack (Backend Focused)<br>⚙️ Skilled in Full Stack Development (MERN + Java)<br>🤝 Open for Collaboration & Open Source<br>🧠 Core: DSA • OOPS • DBMS • OS • CN<br>💬 React • Node • APIs • Backend<br>🔐 Secure Coding & Web Security<br>⚡ Turning ideas into real-world applications
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/priyanshi-bajpai-88838925a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshi2004bajpai@gmail.com) 
